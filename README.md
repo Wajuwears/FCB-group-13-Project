@@ -9,7 +9,7 @@ Data source
 
 Tool used
 
-Data Transportation and loading
+Data Transformation and loading
 
 Data Analysis and Visualization
 
