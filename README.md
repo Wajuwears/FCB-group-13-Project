@@ -36,5 +36,5 @@ With the data in Powe BI dashboard area,we started analyzing it to find amazing 
 ![](overview.png)
 
 ## Inference and conclusion
-
+![](conclusion.png)
     
