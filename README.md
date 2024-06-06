@@ -13,7 +13,7 @@ Data Transportation and loading
 
 Data Analysis and Visualization
 
-conclusion
+Inference and conclusion
 
 - - -
 
@@ -32,5 +32,9 @@ Using the power query editor, we cleaned the data, which means we made sure it w
 ![](Transform.jp).
 
 ##Data Visualization
- 
+With the data in Powe BI dashboard area,we started analyzing it to find amazing patterns and went ahead to create visual charts to further explain them. They will help to have an understanding of what product to get and why, total number of people there and so on. we made use of the slicer tool for comparism sake according to each area.
+![](overview.png)
+
+## Inference and conclusion
+
     
