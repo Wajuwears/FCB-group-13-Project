@@ -23,7 +23,7 @@ The aim of this project is to extract valuable insights and trends from data to 
 ## Data Source
 The primary source of this project is gotten from Kaggle.com 
 
-## PTols Used
+## Tools Used
 - **Ms Excell** [Download here](https://www.microsoft.com)
 - **Power BI** [Download here](https://www.microsoft.com/en-us/power-platform/products/power-bi)
 
